@@ -10,4 +10,4 @@ The ARIMA model showed robust performance with a test RMSE of 0.2049, while XGBo
 
 ## Code File
 
-The code of the project is cumulated into a single python notebook. All the models are discussed therein. The file is called <a href = "">ensemble.ipynb</a>.
+The code of the project is cumulated into a single python notebook. All the models are discussed therein. The file is called <a href = "https://github.com/harsh-choudhary-nature/usd-inr-forex-prediction/blob/main/ensemble.ipynb">ensemble.ipynb</a>.
